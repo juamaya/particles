@@ -5,14 +5,18 @@
   font-family: sans-serif;
 }
 body {
+
   background: black;
   color:white;
   margin: 1rem;
+
 }
 
 h1 {
   color: #fff;
+
 }
+ 
 .menu {
   margin: 20px;
   padding: 10px;
@@ -30,6 +34,13 @@ h1 {
 .menu a:hover {
   color: #8eeb0c;
 }
+
+.padres{
+  display: flex;
+justify-content: center;
+opacity: 0.2;}
+
+ 
 
 #particles-js {
   background: black;
